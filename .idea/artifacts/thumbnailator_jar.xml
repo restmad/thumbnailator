@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="thumbnailator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/thumbnailator_jar</output-path>
+    <root id="archive" name="thumbnailator.jar">
+      <element id="module-output" name="thumbnailator" />
+    </root>
+  </artifact>
+</component>
